@@ -1,0 +1,57 @@
+	<DOCTYPE! html>
+	<html>
+		<head>
+		  	<title> Indicações de séries </title>
+		</head>
+		<body>
+
+			<h1>  Esta página irá ser sobre séries, contendo indicações e sinopses, Aproveitem! </h1>
+			<h2>  Meu gênero favorito é fantasia, mas me aventuro em muitos outros também. </h2>
+			
+			<br>
+			<strong> Logo abaixo, montei uma lista das minhas favoritas!  </strong>
+			</br>
+
+			<h3>  Lista das séries assistidas que mais gostei!: </h3>
+			<ul>
+			<li> The Vampire Diaries </li>
+			<li> The Originals </li>
+			<li> Teen Wolf </li>
+			<li> Game of Thrones </li>
+			<li> Grey´s Anatomy </li>
+			<li> Another Life </li>
+			<li> Peaky Blinders </li>
+			<li> Doctor Who </li>
+			<li> The 100 </li> 
+			<li> You </li>
+			<li> Ginny and Georgia </li>
+			<li> The Last Kingdom
+			
+			
+		<br>
+
+			<h2> Imagens referente as séries </h2>
+		</br>
+
+		<br>     
+
+			<a href="https://maxseries.in/serie-e-animes/the-vampire-diaries-8211-diarios-de-um-vampiro/"
+             
+			<img src= "tvd.jpg" all="Assistir The Vampire Diaries" style="width:42px;height:42px;">
+			</a>
+			<img src= "to.jpg" >
+			<img src= "teen.jpg" >
+			<img src="got.jpg" >
+			<img src= "greys.jpg" >
+			<img src= "the.jpg" >
+			<img src= "pk.jpg" >
+			<img src= "life.jpg" >
+			<img src= "dw.jpg" >
+			<img src= "the.jpg" >
+			<img src= "y.jpg" >
+			<img src= "gg.jpg" >  
+
+		</br>
+
+		<body>
+		</html>
