@@ -18,3 +18,6 @@ ul{
     font-size: medium; font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+header{
+    border-radius: 20%;
+}
