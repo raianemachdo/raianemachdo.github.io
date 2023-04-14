@@ -1,11 +1,10 @@
 h1{
     color: rgb(39, 12, 12);
+    background-color: rgba(255, 238, 238, 0.205);
+    font-family:'Times New Roman';
+    border: rgb(61, 18, 18); border-radius: 20%;
 }
 
-h1{
-    background-color: rgba(255, 238, 238, 0.205);
-    font-family:'Times New Roman',
-}
 h3{
     color:rgb(0, 0, 0);
     font-size: medium;   font-family:Georgia, 'Times New Roman', Times, serif
@@ -15,3 +14,4 @@ ul{
     color:rgb(121, 6, 6);
     font-size: medium; font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
