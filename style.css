@@ -1,3 +1,6 @@
+
+
+
 h1{
     color: rgb(0, 0, 0);
     background-color: rgba(255, 238, 238, 0.205);
@@ -18,31 +21,11 @@ ul{
     font-size: medium; font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-header{
-    border-radius: 20%;
-}
-
-/*.imagem-tela-cheia {
-
-    width: 100vw;
-    height: 15vh;
-    object-fit:scale-down;
-
-}
-*/
-    .container { 
-    color: #000;
-
-    
-}
-    ul {
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-    border: radius 20px;
-    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px; 
-    box-shadow:rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07);
-    box-shadow: rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07);
-    box-shadow: rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07), rgba(0, 0, 0, 0.07);
-
+    div
+    img {
+   
+    border-radius: 20px;
+    box-shadow: rgba(255, 238, 238, 0.205);
 
 }
 
