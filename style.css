@@ -21,3 +21,15 @@ ul{
 header{
     border-radius: 20%;
 }
+
+.imagem-tela-cheia {
+
+    width: 100vw;
+    height: 20vh;
+    object-fit: cover;
+
+}
+
+
+
+
