@@ -25,8 +25,8 @@ header{
 .imagem-tela-cheia {
 
     width: 100vw;
-    height: 20vh;
-    object-fit: cover;
+    height: 15vh;
+    object-fit:scale-down;
 
 }
 
