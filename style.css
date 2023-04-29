@@ -82,7 +82,7 @@
     th{
         
         border: 3px solid rgb(75, 5, 5); padding: 20px; 
-        border-style:ridge;
+        border-style:double;
 
 
     }
@@ -173,6 +173,22 @@
         text-decoration: none;
         padding-left: 48px;
         padding-right: 48px;
+
+      }
+
+      .onde.imagens{
+
+        border-radius: 20px;
+        background-color: #350404;
+        margin: 0%;
+        
+
+      }
+
+      .curiosidades{
+
+        font-family: Georgia, 'Times New Roman', Times, serif;
+
 
       }
 
