@@ -1,18 +1,18 @@
     html{
 
         background-color: rgb(255, 255, 255);
+        margin: 0; padding: 0;
     }
 
     .capa{ 
 
       width: 100%;
-      height: 28%;
+      height: 30%;
 
     }
 
     body{
 
-      margin: 0px;
       background-color: rgb(255, 255, 255);
       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif
 
@@ -27,7 +27,7 @@
       justify-content:center;
       align-items: 0;
       display:flex;
-      width: 100%; 
+      width:auto;
       height: 18;
     }
 
@@ -185,14 +185,7 @@
         padding: 2px;
 
       } 
-
-      .onde.imagens{
-
-        border-radius: 20px;
-        background-color: #350404;
-        margin: 0%;
-      }
-
+      
       .curiosidades{
 
         font-family: Georgia, 'Times New Roman', Times, serif;
@@ -209,5 +202,5 @@
       }
 
       @media screen and (max-width: 780px){
-        
+
       }
