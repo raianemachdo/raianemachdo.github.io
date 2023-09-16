@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
     html{
 
         background-color: rgb(255, 255, 255);
@@ -59,13 +57,15 @@
   }
     h3{
     color:rgb(0, 0, 0);
-    font-size:larger;   font-family:Arial, Helvetica, sans-serif ;
+    font-size:x-large; 
+    font-family: Arial, Helvetica, sans-serif, Helvetica, sans-serif ;
     border-color: rgb(71, 11, 11); border-style: solid; 
   }
 
     h4{
     color: rgb(65, 8, 8);
     font-family:initial;
+    font-size: larger;
   }
 
     ul{
@@ -82,17 +82,13 @@
         background-color: rgb(43, 7, 7);
     }
 
-    div title{
-
-        font-family: Georgia, 'Times New Roman', Times, serif;
-    }
-
     table{
-      border-collapse:collapse;
-      width: 40%;
-      margin-bottom: 30px;
+      border-collapse: collapse; 
+      width:100%;
+      margin-bottom: 3px;
       margin-right: 12px;
       margin-left: 15px;
+      margin: 0;
     }
 
     th, td{
@@ -180,230 +176,8 @@
         opacity: 1;
       }
 
-    nav th {
-
-        border: none;
-        margin: 0px;
-        padding: 2px;
-
-      } 
-
-      a {
-
-        font-style:normal;
-        color:#ffffff;
-        text-decoration: none;
-        padding-left: 48px;
-        padding-right: 48px;
-
-      }
-
-      .onde.imagens{
-
-        border-radius: 20px;
-        background-color: #350404;
-        margin: 0%;
-        
-
-      }
-
-      .curiosidades{
-
-        font-family: Georgia, 'Times New Roman', Times, serif;
-
-
-      }
-
-      footer{
-
-        background-color: darkred;
-        height: 40px;
-        color: #ffffff;
-        padding-top: 25px;
-        margin: 0px;
-
-=======
-
-    html{
-
-        background-color: rgb(255, 255, 255);
-    }
-
-    .capa{ 
-
-      width: 100%;
-      height: 28%;
-
-    }
-
-    body{
-
-      margin: 0px;
-      background-color: rgb(255, 255, 255);
-      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif
-
-    }
-
-    .menu{
-      list-style-type: none;
-      margin:0;  
-      padding:22;
-      background-color:rgb(82, 6, 6);
-      position:sticky;
-      justify-content:center;
-      align-items: 0;
-      display:flex;
-      width: 100%; 
-      height: 18;
-    }
-
-    a{
-      display:inline-block;
-      color: #ffffff;
-      text-align: center;
-      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
-      padding: 10px 20px;
-      text-decoration:none;
-      justify-content: center;
-    }
-
-    .menu li a:hover{
-      background: #680808;
-    }
-
-    h1{
-    color: rgb(0, 0, 0);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif
-  }
-
-    h2{
-    color:rgb(0, 0, 0);
-    padding: 8px;
-    
-  }
-    h3{
-    color:rgb(0, 0, 0);
-    font-size:larger;   font-family:Arial, Helvetica, sans-serif ;
-    border-color: rgb(71, 11, 11); border-style: solid; 
-  }
-
-    h4{
-    color: rgb(65, 8, 8);
-    font-family:initial;
-  }
-
-    ul{
-    color:#000000;
-    font-size: medium; font-family: Georgia, 'Times New Roman', Times, serif;
-  }
-
-    div img {
-    border-radius: 20px;
-  }
-
-    .minha-class1 {  /*ligada as imagens */
-
-        background-color: rgb(43, 7, 7);
-    }
-
-    div title{
-
-        font-family: Georgia, 'Times New Roman', Times, serif;
-    }
-
-    table{
-      border-collapse:collapse;
-      width: 40%;
-      margin-bottom: 30px;
-      margin-right: 12px;
-      margin-left: 15px;
-    }
-
-    th, td{
-      border: 1px solid black; 
-      fill: 10px;
-      text-align: center;
-    }
-
-    th{
-      background-color: #3a0404; color:#ffffff;
-      font-family:Georgia, 'Times New Roman', Times, serif
-    }
-
-    tr{
-      width: 20%;
-    }
-
-    .imagem1 {
-        position:relative;
-        display: inline-block;
-      }
-      
-      .imagem1 .texto {
-        position: absolute;
-        top: 0;
-        left: 0;
-        background-color:#350404;
-        border-color: #000000; border-radius: 20px;
-        color: #ffffff;
-        padding: 50px;
-        width: 300px;
-        opacity: 0;
-        transition: opacity 1.0;
-      }
-      
-      .imagem1:hover .texto {
-        opacity: 1;
-      }
-
-      /*------------------------------------------------------------*/
-   
-    .imagem2 {
-        position:relative;
-        display: inline-block;
-      }
-      
-      .imagem2 .texto {
-        position: absolute;
-        top: 0;
-        left: 0;
-        background-color:#350404;
-        border-color: #000000; border-radius: 20px;
-        color: #ffffff;
-        padding: 50px;
-        width: 300px;
-        opacity: 0;
-        transition: opacity 1.0;
-      }
-      
-      .imagem2:hover .texto {
-        opacity: 1;
-      }
-   
       /*-----------------------------------------------------------*/
 
-    .imagem3 {
-        position:relative;
-        display: inline-block;
-      }
-      
-      .imagem3 .texto {
-        position: absolute;
-        top: 0;
-        left: 0;
-        background-color:#350404;
-        border-color: #000000; border-radius: 20px;
-        color: #ffffff;
-        padding: 50px;
-        width: 300px;
-        opacity: 0;
-        transition: opacity 1.0;
-      }
-      
-      .imagem3:hover .texto {
-        opacity: 1;
-      }
-
     nav th {
 
         border: none;
@@ -412,39 +186,24 @@
 
       } 
 
-      a {
-
-        font-style:normal;
-        color:#ffffff;
-        text-decoration: none;
-        padding-left: 48px;
-        padding-right: 48px;
-
-      }
-
       .onde.imagens{
 
         border-radius: 20px;
         background-color: #350404;
         margin: 0%;
-        
-
       }
 
       .curiosidades{
 
         font-family: Georgia, 'Times New Roman', Times, serif;
-
-
       }
 
       footer{
 
-        background-color: darkred;
+        background-color: rgb(82, 6, 6);
         height: 40px;
         color: #ffffff;
         padding-top: 25px;
         margin: 0px;
 
->>>>>>> 37144a627cbe6bba8f34d7ca7b830ddb7dc83674
       }
