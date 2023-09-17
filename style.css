@@ -185,7 +185,26 @@
         padding: 2px;
 
       } 
-      
+
+      a {
+
+        font-style:normal;
+        color:#ffffff;
+        text-decoration: none;
+        padding-left: 48px;
+        padding-right: 48px;
+
+      }
+
+      .onde.imagens{
+
+        border-radius: 20px;
+        background-color: #350404;
+        margin: 0%;
+        
+
+      }
+
       .curiosidades{
 
         font-family: Georgia, 'Times New Roman', Times, serif;
@@ -198,9 +217,4 @@
         color: #ffffff;
         padding-top: 25px;
         margin: 0px;
-
-      }
-
-      @media screen and (max-width: 780px){
-
       }
