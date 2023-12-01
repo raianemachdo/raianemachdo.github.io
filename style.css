@@ -216,3 +216,16 @@
         padding-top: 15px;
         margin: 0px;
       }
+
+      div.person{
+        border-radius: 8%;
+        background-color: #350404;
+        
+      }
+
+      body.fundo {
+        margin: 0;
+        padding: 0;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
